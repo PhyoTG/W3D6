@@ -1,0 +1,15 @@
+{
+  "name": "w3d6q2",
+  "version": "1.0.0",
+  "description": "WAP W3D6Q2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phyo",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
